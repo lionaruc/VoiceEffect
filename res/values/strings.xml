@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceEffect</string>
+    <string name="action_settings">Settings</string>
+    <string name="autoTuneToggleLabel">AutoTune</string>
+    <string name="toggleAutoTune">toggleAutoTune</string>
+    <item name="audioBuffer" format="integer" type="integer">1024</item>
+
+</resources>
